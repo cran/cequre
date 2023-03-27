@@ -1,0 +1,3 @@
+useDynLib(cequre, .registration = TRUE)
+importFrom("stats", "rexp")
+export(cequre, monodr)

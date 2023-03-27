@@ -1,0 +1,8 @@
+d1b6651b67f9cf3d062bdfb1815237cf *DESCRIPTION
+89c04761f3bb773d6aac90447ce3d4cd *NAMESPACE
+db522ddfee7204d34b82ccca79bea4b7 *R/cequre.R
+50f6827b18e57e760ce661b0eb3c3d38 *R/monodr.R
+ee4c7b8412a086702d8215784150ed27 *man/cequre.Rd
+8fc541f8a7e6271d1409d7cf38a8df5e *man/monodr.Rd
+5a53aea7f4a8526beeb3324d9ca793fe *src/cequre_init.c
+3da78ed67360f9dc01665da7a0c76223 *src/cqr.f
