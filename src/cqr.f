@@ -18,7 +18,6 @@
       integer nq
       double precision taus(nq),mu(0:npred,nq),va(0:npred,0:npred,nq)
       integer i,j,k,p,q
-      double precision dp1,dp2,dp3
       do i=1,size
          wt(i)=1.0d0
       enddo
@@ -114,7 +113,7 @@
       integer nintp,eintp,bd,ninf
 
       logical cont,uprsk
-      integer i,j,p,q
+      integer i,p,q
       double precision irisk,dtmp
 
       para(0,1)=x(1)
@@ -245,6 +244,7 @@
          enddo
       enddo
 
+      logdet=0.0d0
       ninf=0
       i=1
       do while(i .le. dim)
