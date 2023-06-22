@@ -1,8 +1,13 @@
-dd299802cdefe1171320927d6d11469c *DESCRIPTION
+d6b78689bd890e83d7bcfd3198973067 *DESCRIPTION
 89c04761f3bb773d6aac90447ce3d4cd *NAMESPACE
 db522ddfee7204d34b82ccca79bea4b7 *R/cequre.R
 50f6827b18e57e760ce661b0eb3c3d38 *R/monodr.R
+62cd0d18e5a92340ca19cc69b3832496 *build/vignette.rds
+21b79299c24ee720345d876519a07a68 *inst/doc/cequre.R
+17b24d374c29f7cc271daee8d4d410bd *inst/doc/cequre.Rmd
+671ce7ba8986d6634ad579a36e74f83d *inst/doc/cequre.html
 ee4c7b8412a086702d8215784150ed27 *man/cequre.Rd
 8fc541f8a7e6271d1409d7cf38a8df5e *man/monodr.Rd
 5a53aea7f4a8526beeb3324d9ca793fe *src/cequre_init.c
 820ed7b501088fb4600a5512abb530b6 *src/cqr.f
+17b24d374c29f7cc271daee8d4d410bd *vignettes/cequre.Rmd
